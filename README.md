@@ -16,4 +16,7 @@ PADE-master
 ├── README.md
 ├── ...                                
 ```
-## Run
+## Training
+```
+python train_cifar.py 
+```
